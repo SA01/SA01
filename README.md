@@ -11,7 +11,7 @@ Hi there 👋, I'm **Suffyan Asad**, a Senior Data Engineer with over 11 years o
 - Designed and optimized **data pipelines** to process billions of rows efficiently.
 - Developed **anomaly detection systems** to detect and alert on cost spikes and runaway costs.
 - Built **time-series forecasting solutions** using ARIMA and Facebook Prophet.
-- Published multiple articles on Medium covering topics like **Apache Spark**, **Databases**, and **Data Warehousing**.
+- Published multiple articles on Medium covering topics including **Data Engineering**, **Apache Spark**, **Databases**, and **Data Warehousing**.
 
 ---
 
