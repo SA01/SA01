@@ -22,7 +22,7 @@ Hi there 👋, I'm **Suffyan Asad**, a Senior Data Engineer with over 11 years o
 
 ---
 
-## 📈 Education
+## 📚 Education
 
 - **MS in Business Analytics** | George Washington University, Washington DC, USA  
 - **BS in Computer Science** | FAST-NU Lahore, Pakistan
