@@ -1,28 +1,54 @@
 # About Me - Suffyan Asad
 
-Hi there 👋, I'm **Suffyan Asad**, a Senior Data Engineer with over 11 years of experience in data engineering and building data platforms on the cloud. My GitHub mostly contains code related to my articles on Medium. Follow me on Medium to learn about **Apache Spark**, **SQL**, and other **data engineering** topics: [@suffyan.asad1](https://medium.com/@suffyan.asad1).
+Hi there 👋
+
+I am a **Senior Data Engineer and Data Architect** with 12+ years of experience building large-scale data platforms, distributed pipelines, and analytical systems.
+
+My core stack includes **Python, PySpark, Apache Spark, AWS, Databricks, ClickHouse, PostgreSQL, and SQL**. I have worked on platforms processing billions of records, with a focus on data architecture, performance, reliability, financial analytics, and AI-enabled data applications.
+
+I am also a **Databricks Certified Data Engineer Associate**.
+
+This GitHub mostly contains projects, experiments, and code supporting my technical articles on Medium.
 
 ---
 
 ## 🌟 Career Highlights
 
-- **Senior Data Engineer at Yotascale**  
-  Building a cloud cost management and optimization product that helps companies like **Hulu**, **Zoom**, **ClickUp**, and **Okta** reduce cloud infrastructure costs.
-- Designed and optimized **data pipelines** to process billions of rows efficiently.
-- Developed **anomaly detection systems** to detect and alert on cost spikes and runaway costs.
-- Built **time-series forecasting solutions** using ARIMA and Facebook Prophet.
-- Published multiple articles on Medium covering topics including **Data Engineering**, **Apache Spark**, **Databases**, and **Data Warehousing**.
+- Lead data platform modernization and large-scale financial data engineering work at **MobSquad / CoreStack**.
+- Designed and benchmarked a sharded **ClickHouse** analytics platform supporting billion-row workloads.
+- Built and optimized **Spark and PySpark** pipelines processing billions of records.
+- Reduced large-scale Spark processing time by **30%** and infrastructure cost by **15%**.
+- Built anomaly detection systems that processed billions of records and identified a cost spike that helped **Zoom save approximately $600K**.
+- Built forecasting, cost attribution, recommendations, and multi-cloud analytics platforms.
+- Designed automated validation and reconciliation pipelines for financial data.
+- Work with **Claude Code, MCP, ReACT, and RAG** for AI-assisted engineering and data applications.
+- Led and mentored distributed engineering teams.
 
 ---
 
-## 💬 Let's Connect
+## ✍️ Technical Writing
 
-- **LinkedIn:** [Suffyan Asad](https://www.linkedin.com/in/suffyan-asad-421711126/)  
+I publish hands-on articles about:
+
+- Apache Spark and PySpark
+- Data architecture and performance
+- ClickHouse
+- dbt
+- Data warehousing
+- MCP and AI-enabled engineering
+
+**Medium:** [@suffyan.asad1](https://medium.com/@suffyan.asad1)
+
+---
+
+## 💬 Connect
+
+- **LinkedIn:** [Suffyan Asad](https://www.linkedin.com/in/suffyan-asad-421711126/)
 - **Medium:** [@suffyan.asad1](https://medium.com/@suffyan.asad1)
 
 ---
 
 ## 📚 Education
 
-- **MS in Business Analytics** | George Washington University, Washington DC, USA  
-- **BS in Computer Science** | FAST-NU Lahore, Pakistan
+- **MS in Business Analytics** | The George Washington University
+- **BS in Computer Science** | FAST-NU
