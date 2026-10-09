@@ -6,7 +6,7 @@
 
 🌐 **[sa01.github.io](https://sa01.github.io/)** · 📄 **[Extended CV](https://sa01.github.io/resume/)** · 💼 [LinkedIn](https://www.linkedin.com/in/suffyan-asad-421711126/) · ✍️ [Medium](https://medium.com/@suffyan.asad1)
 
-**Certifications:** [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/0f7fcf0e-daf7-4af8-9e94-8ab7c5c1433b#acc.u4nlkgbx) · [SnowPro Core](https://achieve.snowflake.com/4bb4d1e5-b08e-4710-be3b-7e511f7f62b7#acc.v0tWh5cm)
+**Certifications:** [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/0f7fcf0e-daf7-4af8-9e94-8ab7c5c1433b#acc.u4nlkgbx) · [Snowflake SnowPro Core](https://achieve.snowflake.com/4bb4d1e5-b08e-4710-be3b-7e511f7f62b7#acc.v0tWh5cm)
 
 ---
 
